@@ -20,3 +20,6 @@ Learning GitHub and building my first project on Base.
 ## Project Vision
 
 Building my first Web3 project on Base.
+## Update
+
+First webpage created successfully.
