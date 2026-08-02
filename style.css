@@ -11,3 +11,11 @@ h1 {
 p {
   font-size: 20px;
 }
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  background: blue;
+  color: white;
+  border-radius: 8px;
+}
