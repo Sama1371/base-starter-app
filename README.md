@@ -17,3 +17,6 @@ Learning GitHub and building my first project on Base.
 - Learn Web3 basics
 - Explore Base ecosystem
 - Build my first decentralized application
+## Project Vision
+
+Building my first Web3 project on Base.
