@@ -1,3 +1,4 @@
+
 # Base Starter App
 
 My first project for learning Base and Web3 development.
@@ -11,3 +12,8 @@ My first project for learning Base and Web3 development.
 ## Progress
 
 Learning GitHub and building my first project on Base.
+## Learning Goals
+
+- Learn Web3 basics
+- Explore Base ecosystem
+- Build my first decentralized application
