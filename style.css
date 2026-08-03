@@ -1,4 +1,4 @@
-body {
+body {background-color: #f5f7ff;
   font-family: Arial, sans-serif;
   text-align: center;
   margin-top: 50px;
@@ -10,15 +10,4 @@ h1 {
 
 p {
   font-size: 20px;
-}
-button {
-  padding: 10px 20px;
-  font-size: 18px;
-  border: none;
-  background: blue;
-  color: white;
-  border-radius: 8px;
-}
-button:hover {
-  opacity: 0.8;
 }
