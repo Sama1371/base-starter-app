@@ -5,5 +5,4 @@ function greetUser() {
 
 greetUser();
 function connectWallet() {
-  alert("Wallet connection coming soon!");
-}
+alert("Welcome to the Base Starter App!");
