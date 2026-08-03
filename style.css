@@ -21,3 +21,6 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+button:hover {
+  background: #003bb5;
+}
