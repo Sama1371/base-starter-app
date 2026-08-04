@@ -23,3 +23,6 @@ Building my first Web3 project on Base.
 ## Update
 
 First webpage created successfully.
+## Current Status
+
+The project now includes HTML, CSS, and JavaScript.
