@@ -6,3 +6,4 @@ function greetUser() {
 greetUser();
 function connectWallet() {
 alert("Welcome to the Base Starter App!");
+console.log("Feature list loaded");
