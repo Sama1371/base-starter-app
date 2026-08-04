@@ -24,3 +24,7 @@ button {
 button:hover {
   background: #003bb5;
 }
+hr {
+  width: 60%;
+  margin: 30px auto;
+}
