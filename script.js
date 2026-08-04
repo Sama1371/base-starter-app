@@ -10,3 +10,7 @@ console.log("Feature list loaded");
 function connectWallet() {
   alert("Welcome to Base Starter App!");
 }
+function connectWallet() {
+  document.getElementById("status").innerText =
+    "Wallet connection coming soon!";
+}
