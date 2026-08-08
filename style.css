@@ -34,3 +34,7 @@ hr {
 li {
   margin: 10px 0;
 }
+#status {
+  margin-top: 20px;
+  font-weight: bold;
+}
